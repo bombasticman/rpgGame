@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T14:38:48.130Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ICX81wkLesvfGG4QtGsr" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T14:44:20.758Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="t7NZIB0v9xsFeh08JF1J" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1432" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,8 +159,8 @@
         <mxCell id="ukY6zEBsBftYOYXzkqwa-107" value="PopulateGrid()" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#D8F805;" parent="ukY6zEBsBftYOYXzkqwa-109" vertex="1">
           <mxGeometry y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukY6zEBsBftYOYXzkqwa-110" value="Populate grid with cells" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D8F805;rounded=0;glass=0;" parent="ukY6zEBsBftYOYXzkqwa-109" vertex="1">
-          <mxGeometry x="20" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="ukY6zEBsBftYOYXzkqwa-110" value="Populate grid with cells/player/goal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D8F805;rounded=0;glass=0;" parent="ukY6zEBsBftYOYXzkqwa-109" vertex="1">
+          <mxGeometry y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ukY6zEBsBftYOYXzkqwa-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ukY6zEBsBftYOYXzkqwa-109" source="ukY6zEBsBftYOYXzkqwa-107" target="ukY6zEBsBftYOYXzkqwa-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
